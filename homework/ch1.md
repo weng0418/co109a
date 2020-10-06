@@ -1,7 +1,7 @@
 ## 第一章前六題(Use Nand to do Not,And,Or，Xor，Mux，DMux)
 ### 1.Not 
-* picture
- <img src="jpg/Not.jpg" width="300" height="200"  align=center /> 
+
+ <img src="jpg/not.jpg" width="500" height="400"  align=center /> 
 
 * code
 ```
@@ -25,9 +25,9 @@ CHIP Not {
 }
 ```
 ### 2.And
-* 想法:Nand是And加一個Not.
-* picture
-<img src="jpg/And.jpg" width="300" height= "200" align=center/>
+
+
+<img src="jpg/and.jpg" width="500" height= "400" align=center/>
 
 * code
 ```
@@ -54,9 +54,8 @@ CHIP And {
 ```
 
 ### 3.Or
-* Use the Demorgan Therem to use the two Not to let the Nand to Or
-* picture
-<img src="jpg/Or.jpg" width="300" height="200" align=center />
+
+<img src="jpg/or.jpg" width="500" height="400" align=center />
 
 * code
 ```
@@ -85,8 +84,8 @@ CHIP Or {
 
 ### 4.Xor
 
-* picture and explanation
-<img src="jpg/Xor.jpg" width="300" height="200" align=center />
+
+<img src="jpg/xor.jpg" width="400" height="300" align=center />
 
 * code
 ```
@@ -114,8 +113,8 @@ CHIP Xor {
 }
 ```
 ### 5.Mux
-* picture and explanation
-<img src="jpg/Mux.jpg" width="300" height="200" align=center/ >
+
+<img src="jpg/mux.jpg" width="400" height="300" align=center/ >
 
 * code 
 ```
@@ -144,8 +143,8 @@ CHIP Mux {
 }
 ```
 ### 6.DMux
-* picture and explanation
-<img src="jpg/DMux.jpg" width="300" height="200" align=center/ >
+
+<img src="jpg/dmux.jpg" width="400" height="300" align=center/ >
 
 
 * code
