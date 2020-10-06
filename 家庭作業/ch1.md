@@ -3,9 +3,10 @@
 
  <img src="jpg/not.jpg" width="500" height="400"  align=center /> 
 
-* code
+*程式碼
+
 ```
-// This file is part of www.nand2tetris.org
+//此文件是www.nand2tetris.org的一部分
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 // File name: projects/01/Not.hdl
@@ -29,7 +30,8 @@ CHIP Not {
 
 <img src="jpg/and.jpg" width="500" height= "400" align=center/>
 
-* code
+*程式碼
+
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -57,7 +59,7 @@ CHIP And {
 
 <img src="jpg/or.jpg" width="500" height="400" align=center />
 
-* code
+*程式碼
 ```
  // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -87,7 +89,7 @@ CHIP Or {
 
 <img src="jpg/xor.jpg" width="400" height="300" align=center />
 
-* code
+*程式碼
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -116,7 +118,7 @@ CHIP Xor {
 
 <img src="jpg/mux.jpg" width="400" height="300" align=center/ >
 
-* code 
+*程式碼
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -146,8 +148,7 @@ CHIP Mux {
 
 <img src="jpg/dmux.jpg" width="400" height="300" align=center/ >
 
-
-* code
+*程式碼
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
