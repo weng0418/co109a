@@ -6,11 +6,6 @@
 *程式碼
 
 ```
-//此文件是www.nand2tetris.org的一部分
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/Not.hdl
-
 /**
  * Not gate:
  * out = not in
@@ -33,11 +28,6 @@ CHIP Not {
 *程式碼
 
 ```
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/And.hdl
-
 /**
  * And gate: 
  * out = 1 if (a == 1 and b == 1)
@@ -61,11 +51,6 @@ CHIP And {
 
 *程式碼
 ```
- // This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/Or.hdl
-
  /**
  * Or gate:
  * out = 1 if (a == 1 or b == 1)
@@ -91,11 +76,6 @@ CHIP Or {
 
 *程式碼
 ```
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/Xor.hdl
-
 /**
  * Exclusive-or gate:
  * out = not (a == b)
@@ -120,11 +100,6 @@ CHIP Xor {
 
 *程式碼
 ```
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/Mux.hdl
-
 /** 
  * Multiplexor:
  * out = a if sel == 0
@@ -150,11 +125,6 @@ CHIP Mux {
 
 *程式碼
 ```
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/01/DMux.hdl
-
 /**
  * Demultiplexor:
  * {a, b} = {in, 0} if sel == 0
