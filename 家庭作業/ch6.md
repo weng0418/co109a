@@ -77,7 +77,7 @@ CHIP RAM512 {
 
 ### RAM4K
 * picture
-<img src="jpg/RAM4K.jpg" width="1000" height="650">
+<img src="jpg/RAM4k.jpg" width="1000" height="650">
 
 * code
 
