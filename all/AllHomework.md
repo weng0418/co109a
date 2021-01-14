@@ -95,3 +95,6 @@ HackCPU組合語言翻成機器碼
 
 [Hw14](https://github.com/weng0418/co109a/blob/master/%E5%AE%B6%E5%BA%AD%E4%BD%9C%E6%A5%AD/%E8%A3%9C%E5%85%85/r0inc.md)
 
+## 各作業圖片
+
+[jpg](https://github.com/weng0418/co109a/tree/master/%E5%AE%B6%E5%BA%AD%E4%BD%9C%E6%A5%AD/jpg)
