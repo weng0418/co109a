@@ -83,13 +83,13 @@ Computer.hdl
 
 [Hw12](https://github.com/weng0418/co109a/blob/master/%E5%AE%B6%E5%BA%AD%E4%BD%9C%E6%A5%AD/ch12.md)
 
-### 補充題
+## 第七週補充題
 
 HackCPU組合語言翻成機器碼
 
 [Hw13](https://github.com/weng0418/co109a/blob/master/%E5%AE%B6%E5%BA%AD%E4%BD%9C%E6%A5%AD/%E8%A3%9C%E5%85%85/%EF%BC%A8ackCPU.md)
 
-### 補充題
+## 第八週補充題
 
 撰寫組合語言
 
